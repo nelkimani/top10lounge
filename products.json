@@ -1,0 +1,1146 @@
+[
+{
+"id": "p1",
+"category": "alcohol",
+"sub": "Beer",
+"name": "Tusker Lager",
+"size": "500ml",
+"price": 300
+},
+{
+"id": "p2",
+"category": "alcohol",
+"sub": "Beer",
+"name": "Tusker Lite Lager",
+"size": "500ml",
+"price": 300
+},
+{
+"id": "p3",
+"category": "alcohol",
+"sub": "Beer",
+"name": "Tusker Malt Lager",
+"size": "500ml",
+"price": 320
+},
+{
+"id": "p4",
+"category": "alcohol",
+"sub": "Beer",
+"name": "Tusker Draught",
+"size": "500ml",
+"price": 300
+},
+{
+"id": "p5",
+"category": "alcohol",
+"sub": "Beer",
+"name": "White Cap Lager",
+"size": "500ml",
+"price": 300
+},
+{
+"id": "p6",
+"category": "alcohol",
+"sub": "Beer",
+"name": "White Cap Crisp",
+"size": "500ml",
+"price": 300
+},
+{
+"id": "p7",
+"category": "alcohol",
+"sub": "Beer",
+"name": "Balozi Lager",
+"size": "500ml",
+"price": 280
+},
+{
+"id": "p8",
+"category": "alcohol",
+"sub": "Beer",
+"name": "Pilsner Lager",
+"size": "500ml",
+"price": 280
+},
+{
+"id": "p9",
+"category": "alcohol",
+"sub": "Cider",
+"name": "Snapp Apple",
+"size": "330ml",
+"price": 300
+},
+{
+"id": "p10",
+"category": "alcohol",
+"sub": "Cider",
+"name": "Snapp Dry",
+"size": "330ml",
+"price": 300
+},
+{
+"id": "p11",
+"category": "alcohol",
+"sub": "Cider",
+"name": "Manyatta Cider",
+"size": "330ml",
+"price": 300
+},
+{
+"id": "p12",
+"category": "alcohol",
+"sub": "Cider",
+"name": "Manyatta Mango & Ginger",
+"size": "330ml",
+"price": 300
+},
+{
+"id": "p13",
+"category": "alcohol",
+"sub": "Cider",
+"name": "Manyatta Lemon & Ginger",
+"size": "330ml",
+"price": 300
+},
+{
+"id": "p14",
+"category": "alcohol",
+"sub": "Cider",
+"name": "Manyatta Pineapple & Mint (can)",
+"size": "330ml",
+"price": 320
+},
+{
+"id": "p15",
+"category": "alcohol",
+"sub": "Cider",
+"name": "Tusker Cider (can)",
+"size": "330ml",
+"price": 320
+},
+{
+"id": "p16",
+"category": "alcohol",
+"sub": "Cider",
+"name": "Savanna Dry",
+"size": "330ml",
+"price": 300
+},
+{
+"id": "p17",
+"category": "alcohol",
+"sub": "Cider",
+"name": "Hunter's Gold",
+"size": "330ml",
+"price": 300
+},
+{
+"id": "p18",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "Johnnie Walker Red Label",
+"size": "750ml",
+"price": 2800
+},
+{
+"id": "p19",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "Johnnie Walker Black Label",
+"size": "750ml",
+"price": 4800
+},
+{
+"id": "p20",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "Johnnie Walker Double Black",
+"size": "750ml",
+"price": 6200
+},
+{
+"id": "p21",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "Johnnie Walker Blonde",
+"size": "750ml",
+"price": 3800
+},
+{
+"id": "p22",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "Johnnie Walker Green Label 15 Yr",
+"size": "750ml",
+"price": 9500
+},
+{
+"id": "p23",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "Johnnie Walker Gold Reserve",
+"size": "750ml",
+"price": 9000
+},
+{
+"id": "p24",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "Johnnie Walker 18 Yr",
+"size": "750ml",
+"price": 14500
+},
+{
+"id": "p25",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "Johnnie Walker Blue Label",
+"size": "750ml",
+"price": 25000
+},
+{
+"id": "p26",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "Johnnie Walker & Sons Odyssey",
+"size": "750ml",
+"price": 55000
+},
+{
+"id": "p27",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "Johnnie Walker & Sons King George V",
+"size": "750ml",
+"price": 68000
+},
+{
+"id": "p28",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "Dimple 15 Year Old",
+"size": "750ml",
+"price": 6500
+},
+{
+"id": "p29",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "J&B Rare",
+"size": "750ml",
+"price": 2600
+},
+{
+"id": "p30",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "Black & White",
+"size": "750ml",
+"price": 2600
+},
+{
+"id": "p31",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "VAT 69",
+"size": "750ml",
+"price": 2600
+},
+{
+"id": "p32",
+"category": "alcohol",
+"sub": "Whisky",
+"name": "Mr Dowell's No.1",
+"size": "750ml",
+"price": 1900
+},
+{
+"id": "p33",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Smirnoff Red Vodka",
+"size": "750ml",
+"price": 2000
+},
+{
+"id": "p34",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Smirnoff Blue Vodka",
+"size": "750ml",
+"price": 2600
+},
+{
+"id": "p35",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Smirnoff Gold Vodka",
+"size": "750ml",
+"price": 2200
+},
+{
+"id": "p36",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Smirnoff Citrus Vodka",
+"size": "750ml",
+"price": 2000
+},
+{
+"id": "p37",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Smirnoff Orange Vodka",
+"size": "750ml",
+"price": 2000
+},
+{
+"id": "p38",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Smirnoff Vanilla Vodka",
+"size": "750ml",
+"price": 2000
+},
+{
+"id": "p39",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Ketel One Vodka",
+"size": "750ml",
+"price": 4200
+},
+{
+"id": "p40",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Ketel One Citroen Vodka",
+"size": "750ml",
+"price": 4400
+},
+{
+"id": "p41",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Ciroc Blue Stone Vodka",
+"size": "750ml",
+"price": 7000
+},
+{
+"id": "p42",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Ciroc Coconut Vodka",
+"size": "750ml",
+"price": 6500
+},
+{
+"id": "p43",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Ciroc Pineapple Vodka",
+"size": "750ml",
+"price": 6500
+},
+{
+"id": "p44",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Ciroc Red Berry Vodka",
+"size": "750ml",
+"price": 6500
+},
+{
+"id": "p45",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Chrome Vodka",
+"size": "750ml",
+"price": 1500
+},
+{
+"id": "p46",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Chrome Lemon Vodka",
+"size": "750ml",
+"price": 1500
+},
+{
+"id": "p47",
+"category": "alcohol",
+"sub": "Vodka",
+"name": "Triple Ace Vodka",
+"size": "750ml",
+"price": 1300
+},
+{
+"id": "p48",
+"category": "alcohol",
+"sub": "Gin",
+"name": "Gilbey's Special Dry Gin",
+"size": "750ml",
+"price": 1900
+},
+{
+"id": "p49",
+"category": "alcohol",
+"sub": "Gin",
+"name": "Chrome Gin",
+"size": "750ml",
+"price": 1600
+},
+{
+"id": "p50",
+"category": "alcohol",
+"sub": "Gin",
+"name": "Gordon's London Dry Gin",
+"size": "750ml",
+"price": 2300
+},
+{
+"id": "p51",
+"category": "alcohol",
+"sub": "Gin",
+"name": "Gordon's Pink Gin",
+"size": "750ml",
+"price": 2300
+},
+{
+"id": "p52",
+"category": "alcohol",
+"sub": "Gin",
+"name": "Gordon's Sicilian Lemon",
+"size": "750ml",
+"price": 2300
+},
+{
+"id": "p53",
+"category": "alcohol",
+"sub": "Gin",
+"name": "Gordon's Mediterranean Orange",
+"size": "750ml",
+"price": 2300
+},
+{
+"id": "p54",
+"category": "alcohol",
+"sub": "Gin",
+"name": "Tanqueray London Dry Gin",
+"size": "750ml",
+"price": 3800
+},
+{
+"id": "p55",
+"category": "alcohol",
+"sub": "Gin",
+"name": "Tanqueray Rangpur Distilled Gin",
+"size": "750ml",
+"price": 4500
+},
+{
+"id": "p56",
+"category": "alcohol",
+"sub": "Gin",
+"name": "Tanqueray Blackcurrant Royale",
+"size": "750ml",
+"price": 4500
+},
+{
+"id": "p57",
+"category": "alcohol",
+"sub": "Gin",
+"name": "Tanqueray Flor De Sevilla Gin",
+"size": "750ml",
+"price": 4500
+},
+{
+"id": "p58",
+"category": "alcohol",
+"sub": "Gin",
+"name": "Tanqueray No. Ten",
+"size": "750ml",
+"price": 6500
+},
+{
+"id": "p59",
+"category": "alcohol",
+"sub": "Rum & cane",
+"name": "Kenya Cane Smooth",
+"size": "750ml",
+"price": 1200
+},
+{
+"id": "p60",
+"category": "alcohol",
+"sub": "Rum & cane",
+"name": "Kenya Cane Citrus",
+"size": "750ml",
+"price": 1200
+},
+{
+"id": "p61",
+"category": "alcohol",
+"sub": "Rum & cane",
+"name": "Kenya Cane Coconut",
+"size": "750ml",
+"price": 1200
+},
+{
+"id": "p62",
+"category": "alcohol",
+"sub": "Rum & cane",
+"name": "Kenya Cane Lemon Ginger",
+"size": "750ml",
+"price": 1200
+},
+{
+"id": "p63",
+"category": "alcohol",
+"sub": "Rum & cane",
+"name": "Kenya Cane Pineapple",
+"size": "750ml",
+"price": 1200
+},
+{
+"id": "p64",
+"category": "alcohol",
+"sub": "Rum & cane",
+"name": "Kane Extra Golden Spirit",
+"size": "750ml",
+"price": 1400
+},
+{
+"id": "p65",
+"category": "alcohol",
+"sub": "Rum & cane",
+"name": "Captain Morgan Gold Rum",
+"size": "750ml",
+"price": 2400
+},
+{
+"id": "p66",
+"category": "alcohol",
+"sub": "Rum & cane",
+"name": "Captain Morgan Spiced Gold Rum",
+"size": "750ml",
+"price": 2400
+},
+{
+"id": "p67",
+"category": "alcohol",
+"sub": "Rum & cane",
+"name": "Captain Morgan Jam Rum",
+"size": "750ml",
+"price": 2400
+},
+{
+"id": "p68",
+"category": "alcohol",
+"sub": "Rum & cane",
+"name": "Ron Zacapa Centenario 23",
+"size": "750ml",
+"price": 15000
+},
+{
+"id": "p69",
+"category": "alcohol",
+"sub": "Brandy",
+"name": "Liberty Brandy",
+"size": "750ml",
+"price": 1500
+},
+{
+"id": "p70",
+"category": "alcohol",
+"sub": "Brandy",
+"name": "Chrome Brandy",
+"size": "750ml",
+"price": 1800
+},
+{
+"id": "p71",
+"category": "alcohol",
+"sub": "Brandy",
+"name": "Richot Brandy",
+"size": "750ml",
+"price": 2300
+},
+{
+"id": "p72",
+"category": "alcohol",
+"sub": "Brandy",
+"name": "Viceroy 5 Brandy",
+"size": "750ml",
+"price": 2600
+},
+{
+"id": "p73",
+"category": "alcohol",
+"sub": "Brandy",
+"name": "Viceroy 10 Brandy",
+"size": "750ml",
+"price": 3800
+},
+{
+"id": "p74",
+"category": "alcohol",
+"sub": "Tequila",
+"name": "Astral Blanco",
+"size": "750ml",
+"price": 5500
+},
+{
+"id": "p75",
+"category": "alcohol",
+"sub": "Tequila",
+"name": "Astral Reposado",
+"size": "750ml",
+"price": 6000
+},
+{
+"id": "p76",
+"category": "alcohol",
+"sub": "Tequila",
+"name": "Casamigos Blanco",
+"size": "750ml",
+"price": 12500
+},
+{
+"id": "p77",
+"category": "alcohol",
+"sub": "Tequila",
+"name": "Casamigos Reposado",
+"size": "750ml",
+"price": 13500
+},
+{
+"id": "p78",
+"category": "alcohol",
+"sub": "Tequila",
+"name": "Casamigos Añejo",
+"size": "750ml",
+"price": 15000
+},
+{
+"id": "p79",
+"category": "alcohol",
+"sub": "Tequila",
+"name": "Don Julio Blanco",
+"size": "750ml",
+"price": 9500
+},
+{
+"id": "p80",
+"category": "alcohol",
+"sub": "Tequila",
+"name": "Don Julio Reposado",
+"size": "750ml",
+"price": 11000
+},
+{
+"id": "p81",
+"category": "alcohol",
+"sub": "Tequila",
+"name": "Don Julio Añejo",
+"size": "750ml",
+"price": 13500
+},
+{
+"id": "p82",
+"category": "alcohol",
+"sub": "Tequila",
+"name": "Don Julio 1942",
+"size": "750ml",
+"price": 32000
+},
+{
+"id": "p83",
+"category": "alcohol",
+"sub": "Liqueur",
+"name": "VA Imperial Cream Liqueur",
+"size": "750ml",
+"price": 1600
+},
+{
+"id": "p84",
+"category": "alcohol",
+"sub": "Liqueur",
+"name": "Just Right Smooth",
+"size": "750ml",
+"price": 1800
+},
+{
+"id": "p85",
+"category": "alcohol",
+"sub": "Liqueur",
+"name": "Smirnoff Spicy Tamarind",
+"size": "750ml",
+"price": 2000
+},
+{
+"id": "p86",
+"category": "alcohol",
+"sub": "Liqueur",
+"name": "Baileys Original Irish Cream",
+"size": "750ml",
+"price": 3200
+},
+{
+"id": "p87",
+"category": "alcohol",
+"sub": "Liqueur",
+"name": "Baileys Strawberries & Cream",
+"size": "750ml",
+"price": 3200
+},
+{
+"id": "p88",
+"category": "alcohol",
+"sub": "Liqueur",
+"name": "Sheridan's",
+"size": "750ml",
+"price": 3500
+},
+{
+"id": "p89",
+"category": "alcohol",
+"sub": "Liqueur",
+"name": "Pimm's",
+"size": "750ml",
+"price": 3800
+},
+{
+"id": "p90",
+"category": "alcohol",
+"sub": "Liqueur",
+"name": "Amarula Cream",
+"size": "750ml",
+"price": 2600
+},
+{
+"id": "p91",
+"category": "alcohol",
+"sub": "Ready to drink",
+"name": "Smirnoff Ice Guarana",
+"size": "Bottle",
+"price": 300
+},
+{
+"id": "p92",
+"category": "alcohol",
+"sub": "Ready to drink",
+"name": "Smirnoff Ice Pineapple Punch",
+"size": "Bottle",
+"price": 300
+},
+{
+"id": "p93",
+"category": "alcohol",
+"sub": "Ready to drink",
+"name": "Smirnoff Black Ice",
+"size": "Bottle",
+"price": 300
+},
+{
+"id": "p94",
+"category": "alcohol",
+"sub": "Ready to drink",
+"name": "Smirnoff Cosmopolitan",
+"size": "Bottle",
+"price": 350
+},
+{
+"id": "p95",
+"category": "alcohol",
+"sub": "Ready to drink",
+"name": "Captain Morgan Long Island",
+"size": "Bottle",
+"price": 350
+},
+{
+"id": "p96",
+"category": "alcohol",
+"sub": "Ready to drink",
+"name": "Gilbey's Berry Bramble",
+"size": "Bottle",
+"price": 350
+},
+{
+"id": "p97",
+"category": "alcohol",
+"sub": "Ready to drink",
+"name": "Gordon's Premium Dry Tonic",
+"size": "Bottle",
+"price": 350
+},
+{
+"id": "p98",
+"category": "alcohol",
+"sub": "Ready to drink",
+"name": "Gordon's Premium Pink Tonic",
+"size": "Bottle",
+"price": 350
+},
+{
+"id": "p99",
+"category": "alcohol",
+"sub": "Wine",
+"name": "Cellar Cask White",
+"size": "750ml",
+"price": 1500
+},
+{
+"id": "p100",
+"category": "alcohol",
+"sub": "Wine",
+"name": "Drostdy-Hof Grand Cru",
+"size": "750ml",
+"price": 1600
+},
+{
+"id": "p101",
+"category": "alcohol",
+"sub": "Wine",
+"name": "4th Street Sweet Red",
+"size": "750ml",
+"price": 1500
+},
+{
+"id": "p102",
+"category": "alcohol",
+"sub": "Wine",
+"name": "Altar Wine",
+"size": "750ml",
+"price": 1300
+},
+{
+"id": "p103",
+"category": "alcohol",
+"sub": "Wine",
+"name": "Nederburg Sauvignon Blanc",
+"size": "750ml",
+"price": 2200
+},
+{
+"id": "p104",
+"category": "alcohol",
+"sub": "Wine",
+"name": "Durbanville Hills Sauvignon Blanc",
+"size": "750ml",
+"price": 2600
+},
+{
+"id": "p105",
+"category": "alcohol",
+"sub": "Wine",
+"name": "Alto 1693 Red",
+"size": "750ml",
+"price": 3200
+},
+{
+"id": "p106",
+"category": "alcohol",
+"sub": "Wine",
+"name": "Caprice Sweet Red",
+"size": "1 litre",
+"price": 1300
+},
+{
+"id": "p107",
+"category": "alcohol",
+"sub": "Wine",
+"name": "Casa Buena Sangria (sweet white or red)",
+"size": "1 litre",
+"price": 1300
+},
+{
+"id": "p108",
+"category": "alcohol",
+"sub": "Kenyan spirits",
+"name": "Kibao Vodka",
+"size": "750ml",
+"price": 1400
+},
+{
+"id": "p109",
+"category": "alcohol",
+"sub": "Kenyan spirits",
+"name": "Caribia Cane",
+"size": "750ml",
+"price": 1300
+},
+{
+"id": "p110",
+"category": "alcohol",
+"sub": "Kenyan spirits",
+"name": "Hunter's Choice",
+"size": "750ml",
+"price": 1500
+},
+{
+"id": "p111",
+"category": "alcohol",
+"sub": "Kenyan spirits",
+"name": "County",
+"size": "750ml",
+"price": 1300
+},
+{
+"id": "p112",
+"category": "food",
+"sub": "Choma & meat",
+"name": "Mguu Special",
+"size": "",
+"price": 900
+},
+{
+"id": "p113",
+"category": "food",
+"sub": "Choma & meat",
+"name": "Mbavu Dry",
+"size": "",
+"price": 800
+},
+{
+"id": "p114",
+"category": "food",
+"sub": "Choma & meat",
+"name": "Sausage Choma (2 pairs)",
+"size": "",
+"price": 300
+},
+{
+"id": "p115",
+"category": "food",
+"sub": "Choma & meat",
+"name": "Kienyeji Chicken with Plantain",
+"size": "",
+"price": 850
+},
+{
+"id": "p116",
+"category": "food",
+"sub": "Choma & meat",
+"name": "Boiled Fish",
+"size": "",
+"price": 800
+},
+{
+"id": "p117",
+"category": "food",
+"sub": "Mains",
+"name": "Beef Pilau",
+"size": "",
+"price": 350
+},
+{
+"id": "p118",
+"category": "food",
+"sub": "Mains",
+"name": "Mutton Pilau",
+"size": "",
+"price": 450
+},
+{
+"id": "p119",
+"category": "food",
+"sub": "Mains",
+"name": "Matoke Stew",
+"size": "",
+"price": 250
+},
+{
+"id": "p120",
+"category": "food",
+"sub": "Mains",
+"name": "Mukimo",
+"size": "",
+"price": 200
+},
+{
+"id": "p121",
+"category": "food",
+"sub": "Mains",
+"name": "Yellow Beans",
+"size": "",
+"price": 150
+},
+{
+"id": "p122",
+"category": "food",
+"sub": "Mains",
+"name": "Minji (Green Peas)",
+"size": "",
+"price": 150
+},
+{
+"id": "p123",
+"category": "food",
+"sub": "Sides",
+"name": "Ugali",
+"size": "",
+"price": 60
+},
+{
+"id": "p124",
+"category": "food",
+"sub": "Sides",
+"name": "Ugali (Brown)",
+"size": "",
+"price": 70
+},
+{
+"id": "p125",
+"category": "food",
+"sub": "Sides",
+"name": "Rice",
+"size": "",
+"price": 100
+},
+{
+"id": "p126",
+"category": "food",
+"sub": "Sides",
+"name": "Chapati",
+"size": "",
+"price": 50
+},
+{
+"id": "p127",
+"category": "food",
+"sub": "Sides",
+"name": "Spinach",
+"size": "",
+"price": 100
+},
+{
+"id": "p128",
+"category": "food",
+"sub": "Sides",
+"name": "Mboga ya Kienyeji",
+"size": "",
+"price": 120
+},
+{
+"id": "p129",
+"category": "food",
+"sub": "Snacks & chips",
+"name": "Beef Samosas (2)",
+"size": "",
+"price": 100
+},
+{
+"id": "p130",
+"category": "food",
+"sub": "Snacks & chips",
+"name": "Masala Chips",
+"size": "",
+"price": 300
+},
+{
+"id": "p131",
+"category": "food",
+"sub": "Snacks & chips",
+"name": "Potato Wedges",
+"size": "",
+"price": 300
+},
+{
+"id": "p132",
+"category": "food",
+"sub": "Snacks & chips",
+"name": "Sautéed Potatoes",
+"size": "",
+"price": 250
+},
+{
+"id": "p133",
+"category": "soft",
+"sub": "Sodas",
+"name": "Coca-Cola",
+"size": "500ml",
+"price": 100
+},
+{
+"id": "p134",
+"category": "soft",
+"sub": "Sodas",
+"name": "Fanta Orange",
+"size": "500ml",
+"price": 100
+},
+{
+"id": "p135",
+"category": "soft",
+"sub": "Sodas",
+"name": "Fanta Blackcurrant",
+"size": "500ml",
+"price": 100
+},
+{
+"id": "p136",
+"category": "soft",
+"sub": "Sodas",
+"name": "Fanta Passion",
+"size": "500ml",
+"price": 100
+},
+{
+"id": "p137",
+"category": "soft",
+"sub": "Sodas",
+"name": "Sprite",
+"size": "500ml",
+"price": 100
+},
+{
+"id": "p138",
+"category": "soft",
+"sub": "Juices",
+"name": "Minute Maid Apple",
+"size": "Bottle",
+"price": 120
+},
+{
+"id": "p139",
+"category": "soft",
+"sub": "Juices",
+"name": "Minute Maid Juice",
+"size": "Bottle",
+"price": 120
+},
+{
+"id": "p140",
+"category": "soft",
+"sub": "Juices",
+"name": "Minute Maid Tropical",
+"size": "Bottle",
+"price": 120
+},
+{
+"id": "p141",
+"category": "soft",
+"sub": "Juices",
+"name": "Fresh Passion Juice",
+"size": "Glass",
+"price": 200
+},
+{
+"id": "p142",
+"category": "soft",
+"sub": "Juices",
+"name": "Nature's Fresh Nectar (mango & apple or red grape & cherry)",
+"size": "1 litre",
+"price": 250
+},
+{
+"id": "p143",
+"category": "soft",
+"sub": "Hot drinks",
+"name": "Dawa Lemon & Ginger Tea",
+"size": "",
+"price": 200
+}
+]

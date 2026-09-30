@@ -1,0 +1,144 @@
+id,product,file,source_file,pixels,kb,quality
+p1,Tusker Lager,img/p1.webp,Beers/Tusker_Lager.png,600x600,26,90
+p2,Tusker Lite Lager,img/p2.webp,Beers/Tusker_Lite_Lager.png,600x600,41,90
+p3,Tusker Malt Lager,img/p3.webp,Beers/Tusker_Malt_Lager.png,600x600,42,90
+p4,Tusker Draught,img/p4.webp,Beers/Tusker_Draught.png,600x600,48,90
+p5,White Cap Lager,img/p5.webp,Beers/White_Cap_Lager.png,600x600,35,90
+p6,White Cap Crisp,img/p6.webp,Beers/White_Cap_Crisp.png,600x600,32,90
+p7,Balozi Lager,img/p7.webp,Beers/Balozi_Lager.png,600x600,27,90
+p8,Pilsner Lager,img/p8.webp,Beers/Pilsner_Lager.png,600x600,37,90
+p9,Snapp Apple,img/p9.webp,Cider/image_270x355_1.png,270x355,7,90
+p10,Snapp Dry,img/p10.webp,Cider/image_270x355_5.png,270x355,10,90
+p11,Manyatta Cider,img/p11.webp,Cider/image_270x355_2.png,270x355,10,90
+p12,Manyatta Mango & Ginger,img/p12.webp,Cider/image_270x355_3.png,270x355,10,90
+p13,Manyatta Lemon & Ginger,img/p13.webp,Cider/image_270x355_4.png,270x355,10,90
+p14,Manyatta Pineapple & Mint (can),img/p14.webp,Cider/image_600x600_7.png,600x600,49,90
+p15,Tusker Cider (can),img/p15.webp,Cider/image_600x600_6.png,600x600,32,90
+p16,Savanna Dry,img/p16.webp,Spirits/image_278x300_4.png,278x300,4,90
+p17,Hunter's Gold,img/p17.webp,Spirits/image_278x300_5.png,278x300,4,90
+p18,Johnnie Walker Red Label,img/p18.webp,Whiskey/Johnnie_Walker_Red_Label.png,270x355,8,90
+p19,Johnnie Walker Black Label,img/p19.webp,Whiskey/Johnnie_Walker_Black_Label.png,270x355,7,90
+p20,Johnnie Walker Double Black,img/p20.webp,Whiskey/Johnnie_Walker_Double_Black.png,270x355,5,90
+p21,Johnnie Walker Blonde,img/p21.webp,Whiskey/Johnnie_Walker_Blonde.png,270x355,8,90
+p22,Johnnie Walker Green Label 15 Yr,img/p22.webp,Whiskey/Johnnie_Walker_Green_Label_15Yr.png,270x355,6,90
+p23,Johnnie Walker Gold Reserve,img/p23.webp,Whiskey/Johnnie_Walker_Gold_Reserve.png,270x355,9,90
+p24,Johnnie Walker 18 Yr,img/p24.webp,Whiskey/Johnnie_Walker_18Yr_Old.png,270x355,5,90
+p25,Johnnie Walker Blue Label,img/p25.webp,Whiskey/Johnnie_Walker_Blue_Label.png,270x355,7,90
+p26,Johnnie Walker & Sons Odyssey,img/p26.webp,Whiskey/Johnnie_Walker_Sons_Odyssey.png,270x355,8,90
+p27,Johnnie Walker & Sons King George V,img/p27.webp,Whiskey/Johnnie_Walker_Sons_King_George_V.png,270x355,6,90
+p28,Dimple 15 Year Old,img/p28.webp,Whiskey/Dimple_15_Year_Old_Blended_Scotch_Whisky.png,270x355,10,90
+p29,J&B Rare,img/p29.webp,Whiskey/JB_Rare_Blended_Scotch_Whisky.png,270x355,8,90
+p30,Black & White,img/p30.webp,Whiskey/Black_White_Blended_Scotch_Whisky.png,270x355,6,90
+p31,VAT 69,img/p31.webp,Whiskey/VAT_69_Blended_Scotch_Whisky.png,270x355,6,90
+p32,Mr Dowell's No.1,img/p32.webp,Whiskey/MrDowells_No1_Blended_Scotch_Whisky.png,270x355,6,90
+p33,Smirnoff Red Vodka,img/p33.webp,Vodka/Smirnoff_Red_Vodka.png,270x355,8,90
+p34,Smirnoff Blue Vodka,img/p34.webp,Vodka/Smirnoff_Blue_Vodka.png,270x355,8,90
+p35,Smirnoff Gold Vodka,img/p35.webp,Vodka/Smirnoff_Gold_Vodka.png,270x355,7,90
+p36,Smirnoff Citrus Vodka,img/p36.webp,Vodka/Smirnoff_Citrus_Vodka.png,270x355,7,90
+p37,Smirnoff Orange Vodka,img/p37.webp,Vodka/Smirnoff_Orange_Vodka.png,270x355,6,90
+p38,Smirnoff Vanilla Vodka,img/p38.webp,Vodka/Smirnoff_Vanilla_Vodka.png,270x355,8,90
+p39,Ketel One Vodka,img/p39.webp,Vodka/Ketel_One_Vodka.png,270x355,8,90
+p40,Ketel One Citroen Vodka,img/p40.webp,Vodka/Ketel_One_Citroen_Vodka.png,270x355,6,90
+p41,Ciroc Blue Stone Vodka,img/p41.webp,Vodka/Ciroc_Blue_Stone_Vodka.png,270x355,5,90
+p42,Ciroc Coconut Vodka,img/p42.webp,Vodka/Ciroc_Coconut_Vodka.png,270x355,4,90
+p43,Ciroc Pineapple Vodka,img/p43.webp,Vodka/Ciroc_Pineapple_Vodka.png,270x355,5,90
+p44,Ciroc Red Berry Vodka,img/p44.webp,Vodka/Ciroc_Red_Berry_Vodka.png,270x355,5,90
+p45,Chrome Vodka,img/p45.webp,Vodka/Chrome_Vodka.png,270x355,7,90
+p46,Chrome Lemon Vodka,img/p46.webp,Vodka/Chrome_Lemon_Vodka.png,270x355,12,90
+p47,Triple Ace Vodka,img/p47.webp,Vodka/Triple_Ace_Vodka.png,270x355,5,90
+p48,Gilbey's Special Dry Gin,img/p48.webp,Gin/Gilbeys_Special_Dry_Gin.png,270x355,8,90
+p49,Chrome Gin,img/p49.webp,Gin/Chrome_Gin.png,270x355,8,90
+p50,Gordon's London Dry Gin,img/p50.webp,Gin/Gordons_London_Dry_Gin.png,270x355,9,90
+p51,Gordon's Pink Gin,img/p51.webp,Gin/Gordons_Pink_Gin.png,270x355,9,90
+p52,Gordon's Sicilian Lemon,img/p52.webp,Gin/Gordons_Sicilian_Lemon.png,270x355,9,90
+p53,Gordon's Mediterranean Orange,img/p53.webp,Gin/Gordons_Mediterranean_Orange.png,270x355,10,90
+p54,Tanqueray London Dry Gin,img/p54.webp,Gin/Tanqueray_London_Dry_Gin.png,270x355,7,90
+p55,Tanqueray Rangpur Distilled Gin,img/p55.webp,Gin/Tanqueray_Rangpur_Distilled_Gin.png,270x355,7,90
+p56,Tanqueray Blackcurrant Royale,img/p56.webp,Gin/Tanqueray_Blackcurrant_Royale.png,270x355,8,90
+p57,Tanqueray Flor De Sevilla Gin,img/p57.webp,Gin/Tanqueray_Flor_De_Sevilla_Gin.png,270x355,8,90
+p58,Tanqueray No. Ten,img/p58.webp,Gin/Tanqueray_10_Gin.png,270x355,10,90
+p59,Kenya Cane Smooth,img/p59.webp,Rum/Kenya_Cane_Smooth.png,270x355,8,90
+p60,Kenya Cane Citrus,img/p60.webp,Rum/Kenya_Cane_Citrus.png,270x355,8,90
+p61,Kenya Cane Coconut,img/p61.webp,Rum/Kenya_Cane_Coconut.png,270x355,8,90
+p62,Kenya Cane Lemon Ginger,img/p62.webp,Rum/Kenya_Cane_Lemon_Ginger.png,270x355,7,90
+p63,Kenya Cane Pineapple,img/p63.webp,Rum/Kenya_Cane_Pineapple.png,270x355,8,90
+p64,Kane Extra Golden Spirit,img/p64.webp,Rum/Kane_Extra_Golden_Cane_Spirit.png,270x355,7,90
+p65,Captain Morgan Gold Rum,img/p65.webp,Rum/Captain_Morgan_Gold_Rum.png,270x355,10,90
+p66,Captain Morgan Spiced Gold Rum,img/p66.webp,Rum/Captain_Morgan_Spiced_Gold_Rum.png,270x355,8,90
+p67,Captain Morgan Jam Rum,img/p67.webp,Rum/Captain_Morgan_Jam_Rum.png,270x355,10,90
+p68,Ron Zacapa Centenario 23,img/p68.webp,Rum/Ron_Zacapa_Cent_Rum_23.png,270x355,8,90
+p69,Liberty Brandy,img/p69.webp,Brandy/Liberty.png,270x355,7,90
+p70,Chrome Brandy,img/p70.webp,Brandy/Chrome_Brandy.png,270x355,8,90
+p71,Richot Brandy,img/p71.webp,Brandy/Richot_Brandy.png,270x355,7,90
+p72,Viceroy 5 Brandy,img/p72.webp,Wines/image_2082x2272_1.jpg,275x300,7,90
+p73,Viceroy 10 Brandy,img/p73.webp,Wines/image_2082x2251_7.png,370x400,8,90
+p74,Astral Blanco,img/p74.webp,Tequeila/Astral_Blanco.png,270x355,12,90
+p75,Astral Reposado,img/p75.webp,Tequeila/Astral_Reposado.png,270x355,14,90
+p76,Casamigos Blanco,img/p76.webp,Tequeila/Casamigos_Blanco.jpg,270x355,7,90
+p77,Casamigos Reposado,img/p77.webp,Tequeila/Casamigos_Reposado.png,270x355,8,90
+p78,Casamigos Añejo,img/p78.webp,Tequeila/Casamigos_Anejo.jpg,270x355,8,90
+p79,Don Julio Blanco,img/p79.webp,Tequeila/Don_Julio_Blanco_Tequila.png,270x355,8,90
+p80,Don Julio Reposado,img/p80.webp,Tequeila/Don_Julio_Reposado_Tequila.png,270x355,10,90
+p81,Don Julio Añejo,img/p81.webp,Tequeila/Don_Julio_Anejo_Tequila.png,270x355,9,90
+p82,Don Julio 1942,img/p82.webp,Tequeila/Don_Julio_1942_Tequila.png,270x355,6,90
+p83,VA Imperial Cream Liqueur,img/p83.webp,Liquer/VA_Imperial_Cream_Liqueur.png,270x355,6,90
+p84,Just Right Smooth,img/p84.webp,Liquer/Just_Right_Smooth.jpg,270x355,10,90
+p85,Smirnoff Spicy Tamarind,img/p85.webp,Liquer/Smirnoff_Spicy_Tamarind.png,270x355,10,90
+p86,Baileys Original Irish Cream,img/p86.webp,Liquer/Baileys_Original_Irish_Cream.png,270x355,5,90
+p87,Baileys Strawberries & Cream,img/p87.webp,Liquer/Baileys_Strawberries_and_Cream.png,270x355,6,90
+p88,Sheridan's,img/p88.webp,Liquer/Sheridans.png,270x355,8,90
+p89,Pimm's,img/p89.webp,Liquer/Pimms.png,270x355,8,90
+p90,Amarula Cream,img/p90.webp,Wines/image_2082x2251_3.png,370x400,8,90
+p91,Smirnoff Ice Guarana,img/p91.webp,Ready to Drink/Smirnoff_Ice_Guarana.png,270x355,6,90
+p92,Smirnoff Ice Pineapple Punch,img/p92.webp,Ready to Drink/Smirnoff_Ice_Pineapple_Punch.png,270x355,12,90
+p93,Smirnoff Black Ice,img/p93.webp,Ready to Drink/Smirnoff_Black_Ice.png,270x355,4,90
+p94,Smirnoff Cosmopolitan,img/p94.webp,Ready to Drink/Smirnoff_Cosmopolitan_Cocktail.png,270x355,9,90
+p95,Captain Morgan Long Island,img/p95.webp,Ready to Drink/Captain_Morgan_Long_Island_Cocktail.png,270x355,9,90
+p96,Gilbey's Berry Bramble,img/p96.webp,Ready to Drink/Gilbeys_Berry_Bramble_Cocktail.png,270x355,9,90
+p97,Gordon's Premium Dry Tonic,img/p97.webp,Ready to Drink/Gordons_Premium_Dry_Tonic.png,270x355,11,90
+p98,Gordon's Premium Pink Tonic,img/p98.webp,Ready to Drink/Gordons_Premium_Pink_Tonic.png,270x355,9,90
+p99,Cellar Cask White,img/p99.webp,Wines/image_2082x2251_2.jpg,370x400,6,90
+p100,Drostdy-Hof Grand Cru,img/p100.webp,Wines/image_2082x2251_5.png,370x400,5,90
+p101,4th Street Sweet Red,img/p101.webp,Wines/image_2082x2251_9.png,370x400,7,90
+p102,Altar Wine,img/p102.webp,Wines/image_2082x2251_6.jpg,370x400,7,90
+p103,Nederburg Sauvignon Blanc,img/p103.webp,Wines/image_2082x2251_8.png,370x400,5,90
+p104,Durbanville Hills Sauvignon Blanc,img/p104.webp,Spirits/image_278x300_8.jpg,278x300,3,90
+p105,Alto 1693 Red,img/p105.webp,Spirits/image_278x300_7.jpg,278x300,3,90
+p106,Caprice Sweet Red,img/p106.webp,Wines/image_2082x2251_4.jpg,370x400,24,90
+p107,Casa Buena Sangria (sweet white or red),img/p107.webp,Spirits/image_278x300_9.jpg,278x300,18,90
+p108,Kibao Vodka,img/p108.webp,Spirits/image_278x300_3.png,278x300,5,90
+p109,Caribia Cane,img/p109.webp,Spirits/image_278x300_6.jpg,278x300,6,90
+p110,Hunter's Choice,img/p110.webp,Spirits/image_278x300_1.png,278x300,3,90
+p111,County,img/p111.webp,Spirits/image_278x300_2.png,278x300,4,90
+p112,Mguu Special,img/p112.webp,Choma/Mguu_Special.jpg,320x320,45,90
+p113,Mbavu Dry,img/p113.webp,Choma/Mbavu_Dry.jpg,320x179,25,90
+p114,Sausage Choma (2 pairs),img/p114.webp,Sausage/Sausage_Choma_2_Pair.jpg,320x320,13,90
+p115,Kienyeji Chicken with Plantain,img/p115.webp,Kuku/Chicken_Kienyenji_Plantain.jpg,320x320,21,90
+p116,Boiled Fish,img/p116.webp,Fish/Boiled_Fish.jpg,320x320,31,90
+p117,Beef Pilau,img/p117.webp,pilau/Beef_Pilau.jpg,320x427,15,90
+p118,Mutton Pilau,img/p118.webp,pilau/Mutton_Pilau.jpg,320x320,45,90
+p119,Matoke Stew,img/p119.webp,Matoke/Matoke_Stew.jpg,320x427,40,90
+p120,Mukimo,img/p120.webp,Mukimo/Mukimo.jpg,320x320,9,90
+p121,Yellow Beans,img/p121.webp,Beans/Yellow_Beans.jpg,320x320,34,90
+p122,Minji (Green Peas),img/p122.webp,Minji/Minji.jpg,320x320,19,90
+p123,Ugali,img/p123.webp,Ugali/Ugali.jpg,320x320,9,90
+p124,Ugali (Brown),img/p124.webp,Ugali/Ugali_Brown.jpg,320x320,8,90
+p125,Rice,img/p125.webp,Rice/Rice.jpg,320x320,15,90
+p126,Chapati,img/p126.webp,Chapati/Chapati.jpg,320x320,12,90
+p127,Spinach,img/p127.webp,Greens/Spinach.jpg,320x427,22,90
+p128,Mboga ya Kienyeji,img/p128.webp,Greens/Mboga_Ya_Kienyeji.jpg,320x240,19,90
+p129,Beef Samosas (2),img/p129.webp,Samosa/2-Beef_Samosas-Cripsy_Fried.jpg,320x320,8,90
+p130,Masala Chips,img/p130.webp,Chips/Masala_Chips.jpg,320x320,21,90
+p131,Potato Wedges,img/p131.webp,Wedges/Potatoes_Wedges.jpg,320x320,23,90
+p132,Sautéed Potatoes,img/p132.webp,Sautee Potatoes/Saute_Potatoes.jpg,320x320,18,90
+p133,Coca-Cola,img/p133.webp,Soda/Coca-Cola_Original_500ml_PET.jpg,320x320,6,90
+p134,Fanta Orange,img/p134.webp,Soda/Fanta_Orange_500ml_PET.jpg,320x320,6,90
+p135,Fanta Blackcurrant,img/p135.webp,Soda/Fanta_Blackcurrant_500ml_PET.jpg,320x320,6,90
+p136,Fanta Passion,img/p136.webp,Soda/Fanta_Passion_500ml_Pet.jpg,320x320,4,90
+p137,Sprite,img/p137.webp,Soda/Sprite_Lemon_Lime_500ml_PET.jpg,320x320,4,90
+p138,Minute Maid Apple,img/p138.webp,Minute Maid/Minute_Maid_Apple_Juice_Pet.jpg,320x261,6,90
+p139,Minute Maid Juice,img/p139.webp,Minute Maid/Minute_Maid_Juice_PET.jpg,320x261,5,90
+p140,Minute Maid Tropical,img/p140.webp,Minute Maid/Minute_Maid_Tropical_PET.jpg,320x320,7,90
+p141,Fresh Passion Juice,img/p141.webp,Juice/Passion_Juice.jpg,320x320,9,90
+p142,Nature's Fresh Nectar (mango & apple or red grape & cherry),img/p142.webp,Spirits/image_278x300_10.jpg,278x300,23,90
+p143,Dawa Lemon & Ginger Tea,img/p143.webp,dawa/Classic_Lemon_Ginger_Tea_Dawa.jpg,320x320,17,90

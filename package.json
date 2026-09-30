@@ -1,0 +1,8 @@
+{
+  "name": "top10-lounge",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node --env-file=.env server.js" },
+  "engines": { "node": ">=22.13" },
+  "dependencies": { "express": "^4.21.2" }
+}
